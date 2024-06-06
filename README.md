@@ -1,4 +1,4 @@
-hello 👋 , I’m ropinout\
+hey 👋 , I’m ropinout\
 i can work as well with:
 
 - gimp
