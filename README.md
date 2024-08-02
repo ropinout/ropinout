@@ -5,5 +5,3 @@ i can work as well with:
 - inkscape
 - linux?(i install it one years ago bro chill)
 
-(i try to learn python but im still noob i need to make something good with that to make myself sure i dont have stupid problems with it)
-
