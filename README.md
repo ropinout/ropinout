@@ -3,10 +3,10 @@
 ## hey, I'm ropinot (´・ω・`) 
 <p>A beginner in various fields who is eager to expand his knowledge</p>
 
-## my knowledge
+## my knowledge 📖
 still empty (╥︣_᷅╥᷅) <br>
 But I am trying to increase my abilities ( if laziness allows )
 
-## What I've done so far
+## What I've done so far 🤥
 I ported Droidian for my phone ( Battery and touchscreen not work ) <br>
 ...
