@@ -8,5 +8,5 @@ still empty (╥︣_᷅╥᷅) <br>
 But I am trying to increase my abilities ( if laziness allows )
 
 ## What I've done so far
-i did port droidian to my phone ( Battery and touchscreen not work ) <br>
+i did port droidian for my phone ( Battery and touchscreen not work ) <br>
 ...
