@@ -1,5 +1,5 @@
 # Once upon a time in a remote and unknown corner of eternity 🌌  <br> a man who, despite his laziness 😴 , was in an endless quest for knowledge 
-<img width="550" alt="GIF" align="right" src="https://i.pinimg.com/originals/12/6b/8f/126b8f18bad751435ff017dd1658b598.gif">
+<img width="550" alt="GIF" align="right" src="https://i.pinimg.com/originals/b5/81/93/b5819347b17f735f86b48c23e0cac447.gif">
 
 ### hey, I'm ropinot (´・ω・`) 
 <p>A beginner in various fields who is eager to expand his knowledge</p>
